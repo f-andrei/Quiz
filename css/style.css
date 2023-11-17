@@ -1,0 +1,39 @@
+#customBody {
+	background-color: #46237A;
+	color: #FF495C;
+}
+
+.row {
+	font-size: 30px;
+}
+
+.options-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center; 
+	align-items: center; 
+	width: 100%; 
+	margin: 0; 
+}
+
+.options-container button {
+	background-color: #1554d1;
+	color: white;
+	width: 40%; 
+	margin-bottom: 4px; 
+}
+
+.options-container button:hover {
+	background-color: rgb(0, 251, 255);
+	color: black;
+}
+
+#next-btn {
+	background-color: #1554d1;
+	color: white;
+}
+
+#next-btn:hover {
+	background-color: rgb(0, 251, 255);
+	color: black;
+}
